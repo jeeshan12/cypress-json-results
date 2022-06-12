@@ -1,0 +1,20 @@
+{
+  "name": "cypressjsonresults",
+  "version": "1.0.0",
+  "description": "Library to generate json results for cypress",
+  "main": "src",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "json",
+    "results"
+  ],
+  "author": "Mohd Jeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "common-tags": "^1.8.2",
+    "cypress": "^10.0.0"
+  }
+}
